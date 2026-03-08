@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "92c463ed983a7045",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b7ef8b7ae6b208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82cf489aad5e8817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode/14.Longest Common Prefix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14.Longest Common Prefix"
+            }
+          },
+          {
+            "id": "d04d55fbd17024b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/AI 시대 개발자로 성장하는 법.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI 시대 개발자로 성장하는 법"
+            }
+          },
+          {
+            "id": "b0404c80dbc7c518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/pitch-feed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pitch-feed"
+            }
+          },
+          {
+            "id": "8f5c5334d253c8e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/ticket-rush(대기열편).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ticket-rush(대기열편)"
+            }
+          },
+          {
+            "id": "2a63cbb178143c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/핀닝 이슈.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "핀닝 이슈"
+            }
+          },
+          {
+            "id": "2062fe3f7e7ed5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode/14.Longest Common Prefix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14.Longest Common Prefix"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd71bd6c9e29fd66",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fa1e0913ec103cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a11c70927ad884",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b5c091e6840b475d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d7ff1261c2910e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "de6692805484afc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "25db16d37b99781f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b254a5856fcfaae5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "leetcode/14.Longest Common Prefix.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 14.Longest Common Prefix"
+            }
+          },
+          {
+            "id": "7ed941faf1efb3ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "leetcode/14.Longest Common Prefix.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 14.Longest Common Prefix"
+            }
+          },
+          {
+            "id": "86bee21faae26f71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9b76ae94e6c4821a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c054e1da80cb856a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "leetcode/14.Longest Common Prefix.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 14.Longest Common Prefix"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2062fe3f7e7ed5d0",
+  "lastOpenFiles": [
+    "leetcode/680.Valid Palindrome 2.md",
+    "projects/pitch-feed.md",
+    "projects/discord-screenshot.png",
+    "leetcode/14.Longest Common Prefix.md",
+    "webmentions.md",
+    "projects/ticket-rush(대기열편).md",
+    "projects/ticket-rush(동시성편).md",
+    "markdown-elements/index.md",
+    "markdown-elements/admonitions.md",
+    "social-image.md",
+    "projects/AI 시대 개발자로 성장하는 법.md",
+    "cover-image/index.md",
+    "projects/py-fortune.md",
+    "그라파나와 프로메테우스.md",
+    "projects/핀닝 이슈.md",
+    "cover-image/cover.png",
+    "projects/unique-tags.md",
+    "leetcode",
+    "markdown-elements/logo.png"
+  ]
+}
