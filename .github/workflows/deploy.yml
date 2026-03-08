@@ -19,8 +19,8 @@ jobs:
       - name: Install, build, and upload your site
         uses: withastro/action@v2
         with:
-          # 만약 pnpm이나 yarn을 쓴다면 해당 도구로 변경 가능 (기본 npm)
           path: .
+          package-manager: pnpm@latest
 
   deploy:
     needs: build
