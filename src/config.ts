@@ -2,9 +2,9 @@ export const SITE = {
   website: "https://xxwn-dev.github.io/", // replace this with your deployed domain
   author: "xxwon",
   profile: "https://xxwn-dev.github.io/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "xxwon.dev.log",
-  ogImage: "astropaper-og.jpg",
+  desc: "Less is more.",
+  title: "xxwon.log",
+  ogImage: "og-img.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
