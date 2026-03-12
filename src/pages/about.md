@@ -3,35 +3,10 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+읽고 만들고 생각한 것들을 그냥 흘려보내니 기억에 남는 것들이 없어서 너무 아쉬웠다.                                   
+                                                                           
+  개발 서적을 읽고 든 생각, 프로젝트를 만들면서 부딪힌 것들, 트렌드를 보면서 느낀 것들 너무너무 많은데,어딘가에 남겨두지 않으면 다 증발한다. 분명히 고민했고 분명히 얻은 게 있는데, 시간이 지나면 "그때 뭔가 배웠던 것 같은데, 뭔가 느꼈었던 느낌인데" 정도만 남는다.                  
+                                                                                          
+  날것의 메모보다는 한 번 소화한 것들을 올리려고 한다. 프로젝트 개발기, 책이나 글을 읽고 정리한 것들, 가끔은 개발 트렌드에 대한 생각도. 완벽하게 정리된 글이 아니어도 괜찮다고 생각한다. 나중에 내가 다시 찾아올 수 있을 정도면 충분하다.
 
-![Astro Paper](public/astropaper-og.jpg)
-
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
-
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
-
-## Features
-
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+  잘 기록하고, 잘 남겨두어야지.

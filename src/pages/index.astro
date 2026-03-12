@@ -7,7 +7,7 @@ import Socials from "@/components/Socials.astro";
 import LinkButton from "@/components/LinkButton.astro";
 import Card from "@/components/Card.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
-import IconRss from "@/assets/icons/IconRss.svg";
+// import IconRss from "@/assets/icons/IconRss.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
 import { SOCIALS } from "@/constants";
@@ -24,9 +24,9 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
   <main id="main-content" data-layout="index" class="app-layout">
     <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
       <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Hello
+        안녕하세요
       </h1>
-      <a
+      <!-- <a
         target="_blank"
         href="/rss.xml"
         class="inline-block"
@@ -39,10 +39,10 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
           class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
         />
         <span class="sr-only">RSS Feed</span>
-      </a>
+      </a> -->
 
       <p>
-        기록들을 옮기고 있습니다.
+        휘발되는 경험과 생각들을 기록하기 위한 공간
       </p>
       <p class="mt-2">
         Read the blog posts or check
