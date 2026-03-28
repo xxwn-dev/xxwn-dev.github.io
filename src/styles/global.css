@@ -69,3 +69,7 @@ html[data-theme="dark"] {
 :target {
   scroll-margin-block: 1rem;
 }
+
+.callout-title.quote strong {
+  display: none;
+}

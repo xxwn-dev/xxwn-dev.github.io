@@ -3,7 +3,7 @@ import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
-import remarkCallout from "remark-callout";
+import remarkCallouts from "@portaljs/remark-callouts";
 import {
   transformerNotationDiff,
   transformerNotationHighlight,
@@ -11,7 +11,6 @@ import {
 } from "@shikijs/transformers";
 import { transformerFileName } from "./src/utils/transformers/fileName";
 import { SITE } from "./src/config";
-
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
@@ -21,9 +20,12 @@ export default defineConfig({
     }),
   ],
   markdown: {
-    remarkPlugins: [remarkToc
-      ,[remarkCollapse, { test: "Table of contents" }]
-      ,remarkCallout
+    remarkPlugins: [
+      remarkToc,
+      [remarkCollapse, { test: "Table of contents" }],
+      // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+      // @ts-expect-error
+      remarkCallouts,
     ],
     shikiConfig: {
       // For more themes, visit https://shiki.style/themes
