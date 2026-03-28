@@ -1,7 +1,7 @@
 ---
 title: Oracle Cloud Free Tier 인스턴스 생성 가이드
 description: kbo 룰봇 oci에 올리기
-pubDatetime: 2026-03-29T10:00:00+09:00
+pubDatetime: 2026-03-28T10:00:00+09:00
 tags:
   - RAG
   - OCI
